@@ -1,0 +1,10 @@
+.container11{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap:20px
+}
+.item{
+    background-color: pink;
+    border:2px solid rgb(36, 33, 33)
+    
+}

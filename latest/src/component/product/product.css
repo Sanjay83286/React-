@@ -1,0 +1,6 @@
+.top{
+    display: flex;
+}
+.nav_bar{
+    border: 2px solid black;
+}

@@ -1,0 +1,15 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 10px;
+    background-color: coral;
+}
+.right_navbar{
+    display: flex;
+    width: 40%;
+    justify-content: space-evenly;
+}
